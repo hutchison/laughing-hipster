@@ -9,7 +9,7 @@ zu Verwaltungszwecken installiert:
 
 Es wird dabei nach bestem Wissen und Gewissen überprüft, ob das Skript auf einem
 Mac ausgeführt wird und die zu installierenden Programme nicht schon installiert
-sind. Zum Anstoßen der Installation einfach `bootstrap.sh` im Terminal
+sind. Zum Anstoßen der Installation einfach `./bootstrap.sh` im Terminal
 ausführen. Irgendwann muss man bestimmt mal das eigene Passwort eingeben (zum
 Installieren der Programme braucht man Administratorrechte) – `sudo` wird sich
 dann schon melden.
